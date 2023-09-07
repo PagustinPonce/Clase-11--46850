@@ -9,3 +9,6 @@ para saber la situacion actual de nuestro proyecto
 
 3.git add .
 para incluir archivos
+
+4.git commit -m ""
+con este confirmamos todos los cambios que hermos hecho
