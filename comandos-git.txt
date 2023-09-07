@@ -12,3 +12,9 @@ para incluir archivos
 
 4.git commit -m ""
 con este confirmamos todos los cambios que hermos hecho
+
+5.git log
+genera un historial completo de los ultimos commits, usuario, fecha y hora de esos cambios
+
+6.git log --online
+sirve para ver el historial de manera mas corta
