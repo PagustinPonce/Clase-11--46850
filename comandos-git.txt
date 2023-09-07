@@ -1,0 +1,11 @@
+Comandos basicos de git
+
+cuando querramos ignorar un archivo no tiene que estar incluido ya
+1. git init
+Este comando inicia nuestros comandos
+
+2.git status
+para saber la situacion actual de nuestro proyecto
+
+3.git add .
+para incluir archivos
