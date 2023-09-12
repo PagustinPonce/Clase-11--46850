@@ -18,3 +18,12 @@ genera un historial completo de los ultimos commits, usuario, fecha y hora de es
 
 6.git log --online
 sirve para ver el historial de manera mas corta
+
+7.git branch
+muestra las ramas disponibles
+
+8. git branch nombre cualquiera
+crea una rama con el nombre que le asignen
+
+9. git checkout
+sirve para cambiar entre las ramas disponibles.
